@@ -19,10 +19,6 @@ Unlike traditional apps, Nagar Sanchar is **multimodal**, allowing users to inte
 * **Scripting:** JavaScript (Node.js) for custom API integrations
 * **Interface:** Web Widget / WhatsApp Integration
 
-## 📂 Repository Structure
-* `Nagar_Sanchar.bpz` - **The Source Code.** This is the full bot export file containing all flows, intents, and logic.
-* `screenshots/` - Visual documentation of the bot's workflow and conversation logic.
-
 ## ⚙️ How to Run (Instructions for Judges)
 Since this project is built on a low-code platform, the logic is encapsulated in the `.bpz` archive.
 
@@ -42,4 +38,5 @@ Since this project is built on a low-code platform, the logic is encapsulated in
 
 ### 👨‍💻 Author
 **Sujoy** *B.Tech Student, IIIT Ranchi* *Project created for Hackathon 2026*
+
 
